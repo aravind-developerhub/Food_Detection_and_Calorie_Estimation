@@ -10,7 +10,7 @@ Developed a machine learning model for food detection and calorie estimation to 
 2. INCEPTION V3 (PRE TRAINED MODEL DEVELOPED BY GOOGLE USING IMAGENET)
 3. VGG (MODEL DEVELOPED BY OXFORD UNIVERSITY)
 
-**REPORT OF THE PROJECT:**📚
+**REPORT OF THE PROJECT:** 📚
 ![Project Report_updated_page-0001](https://github.com/user-attachments/assets/d4977006-6e76-4bbd-a9c8-8575c2f5470e)
 ![Project Report_updated_page-0002](https://github.com/user-attachments/assets/1bd10e0c-63ad-46a4-b484-c824f93b9d74)
 ![Project Report_updated_page-0003](https://github.com/user-attachments/assets/433912e8-67a7-4622-b852-df7cd9fedba8)
