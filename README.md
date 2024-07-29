@@ -1,14 +1,21 @@
+<h1>FOOD DETECTION AND CALORIE ESTIMATION </h1>
+<h1>🥖🫓🥨🥯🥞🧀🍖🍗🍔🍟🍕🌭🥪🌮🌯🫔🥙🥚🥘🍿🥫</h1>
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*auz26ZzvLASrlDdK.png">
 Developed a machine learning model for food detection and calorie estimation to address obesity and malnutrition issues in India. The solution leverages image recognition and nutritional databases to provide accurate dietary assessments and promote healthier eating habits
 
-**Modules followed to do this project:**
-1. Food Classsification (Feature Selection)
-2. Image segmentation
-3. Calorie Estimation
+<h2>Modules followed to do this project</h2>
+<ol>
+      <li>Food Classsification (Feature Selection)</li>
+      <li>Image segmentation</li>
+      <li>Calorie Estimation</li>
+</ol>
 
-**Models used for the project:**
-1. BASIC CNN
-2. INCEPTION V3 (PRE TRAINED MODEL DEVELOPED BY GOOGLE USING IMAGENET)
-3. VGG (MODEL DEVELOPED BY OXFORD UNIVERSITY)
+<h2>Models used for the project:</h2>
+<ol>
+      <li>INCEPTION V3 (PRE TRAINED MODEL DEVELOPED BY GOOGLE USING IMAGENET)</li>
+      <li>VGG (MODEL DEVELOPED BY OXFORD UNIVERSITY)</li>
+      <li>BASIC CNN</li>
+</ol>
 
 **REPORT OF THE PROJECT:** 📚
 ![Project Report_updated_page-0001](https://github.com/user-attachments/assets/d4977006-6e76-4bbd-a9c8-8575c2f5470e)
